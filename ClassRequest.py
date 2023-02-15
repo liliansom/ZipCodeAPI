@@ -18,7 +18,7 @@ class Request:
         self.city = dic_response['localidade']
         self.road = dic_response['logradouro']
         self.nh = dic_response['bairro']
-        self.address = (self.state, self.city, self.road, self.nh)
+        self.address = (self.road, self.nh, self.city, self.state)
         return self.address
     
     def print_result(self):
