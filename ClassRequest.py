@@ -1,4 +1,4 @@
-import pip._vendor.requests 
+import pip._vendor.requests
 
 class Request:
     def __init__(self):
@@ -20,7 +20,7 @@ class Request:
         self.nh = dic_response['bairro']
         self.address = (self.state, self.city, self.road, self.nh)
         return self.address
-            
+    
     def print_result(self):
         print(self.address)
         return
