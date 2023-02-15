@@ -15,6 +15,7 @@ This project was a great opportunity to learn how to consume API's and it's gonn
 You can search a brazilian address with the zip code of the client and fill in a formulary with this data.
 
 ## Project Outline
+<img width="528" alt="foto" src="https://user-images.githubusercontent.com/109561962/218923091-44271c8e-14b3-48a0-83af-9b55d6a65e4a.png">
 
 ## Questions
 Did you have any questions or difficulties using the program? <br>
