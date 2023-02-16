@@ -2,7 +2,7 @@
 This is a project made for CSV Mentorship and consists of zip code API (Application Programming Interface) consuption. <br>
 With this program you can search the address from the zip code of the client. Must be a brazilian zip code.
 
-For building this program I used: <br>
+To build this program I used: <br>
 Site Figma, Front-End https://www.figma.com/; <br>
 VSCode, is a code editor redefined and optimized for building and debugging modern web and cloud applications, https://code.visualstudio.com/download; <br>
 Python 3.10, https://www.python.org/downloads/;<br>
@@ -19,7 +19,7 @@ The program will ask you a zipcode number. After your input, it will return the 
 ## Project Outline
 <img width="528" alt="foto" src="https://user-images.githubusercontent.com/109561962/218923091-44271c8e-14b3-48a0-83af-9b55d6a65e4a.png">
 
-## Questions
+## FAQ
 Did you have any questions or difficulties using the program? <br>
 Please contact me! I am available to implement program improvements!<br>
 
