@@ -24,5 +24,4 @@ Did you have any questions or difficulties using the program? <br>
 Please contact me! I am available to implement program improvements!<br>
 
 ## Progress
-In progress. <br>
-Deadline: 20/02/2023.
+Project Delivered <br>
