@@ -1,5 +1,5 @@
 ## Presentation
-This is a project made for CSV Mentorship and consists of zip code API (Application Programming Interface) consuption. <br>
+This is a project that consists of zip code API (Application Programming Interface) consuption. <br>
 With this program you can search the address from the zip code of the client. Must be a brazilian zip code.
 
 To build this program I used: <br>
